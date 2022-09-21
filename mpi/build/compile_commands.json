@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/eddie/adams/Studia/Magisterka/mpi_experiment/build",
+  "command": "mpic++   -isystem /home/eddie/installs/mpe2/include  -g   -o CMakeFiles/logging_states.dir/src/logging_states.cpp.o -c /home/eddie/adams/Studia/Magisterka/mpi_experiment/src/logging_states.cpp",
+  "file": "/home/eddie/adams/Studia/Magisterka/mpi_experiment/src/logging_states.cpp"
+},
+{
+  "directory": "/home/eddie/adams/Studia/Magisterka/mpi_experiment/build",
+  "command": "mpic++   -isystem /home/eddie/installs/mpe2/include  -g   -o CMakeFiles/mock_agds_data.dir/src/mock_agds_data.cpp.o -c /home/eddie/adams/Studia/Magisterka/mpi_experiment/src/mock_agds_data.cpp",
+  "file": "/home/eddie/adams/Studia/Magisterka/mpi_experiment/src/mock_agds_data.cpp"
+},
+{
+  "directory": "/home/eddie/adams/Studia/Magisterka/mpi_experiment/build",
+  "command": "mpic++   -isystem /home/eddie/installs/mpe2/include  -g   -o CMakeFiles/utils.dir/src/utils.cpp.o -c /home/eddie/adams/Studia/Magisterka/mpi_experiment/src/utils.cpp",
+  "file": "/home/eddie/adams/Studia/Magisterka/mpi_experiment/src/utils.cpp"
+},
+{
+  "directory": "/home/eddie/adams/Studia/Magisterka/mpi_experiment/build",
+  "command": "mpic++   -isystem /home/eddie/installs/mpe2/include  -g   -o CMakeFiles/inference.dir/src/inference.cpp.o -c /home/eddie/adams/Studia/Magisterka/mpi_experiment/src/inference.cpp",
+  "file": "/home/eddie/adams/Studia/Magisterka/mpi_experiment/src/inference.cpp"
+},
+{
+  "directory": "/home/eddie/adams/Studia/Magisterka/mpi_experiment/build",
+  "command": "mpic++   -isystem /home/eddie/installs/mpe2/include  -g   -o CMakeFiles/scan_prod_mpi.dir/src/scan_prod_mpi.cpp.o -c /home/eddie/adams/Studia/Magisterka/mpi_experiment/src/scan_prod_mpi.cpp",
+  "file": "/home/eddie/adams/Studia/Magisterka/mpi_experiment/src/scan_prod_mpi.cpp"
+},
+{
+  "directory": "/home/eddie/adams/Studia/Magisterka/mpi_experiment/build",
+  "command": "mpic++   -isystem /home/eddie/installs/mpe2/include  -g   -o CMakeFiles/agds_mpi.dir/src/main.cpp.o -c /home/eddie/adams/Studia/Magisterka/mpi_experiment/src/main.cpp",
+  "file": "/home/eddie/adams/Studia/Magisterka/mpi_experiment/src/main.cpp"
+}
+]
